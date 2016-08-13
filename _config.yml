@@ -2,9 +2,10 @@
 title:       Lin Dong
 email:       ldong8@ncsu.edu
 author:      Lin Dong
-description: "Dong dong dong's home page"
+description: "Lin Dong's home page"
 baseurl:     ""
-url:         "http://LynnDung.github.io"
+url:         "http://LynnDung.github.io
+"
 date_format: "%b %-d, %Y"
 
 # Google services
