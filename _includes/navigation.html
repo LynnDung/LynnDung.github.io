@@ -15,6 +15,11 @@
     {% endif %}
 {% endfor %}
 {% for page in site.pages %}
+    {% if page.tags contains "teaching" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+{% for page in site.pages %}
     {% if page.tags contains "interest" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
