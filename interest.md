@@ -5,4 +5,5 @@ permalink: /interest/
 tags: interest
 ---
 
-I travel.
+I travel.  
+<img src="../../../../../images/meAndBird.jpg" width="150">
