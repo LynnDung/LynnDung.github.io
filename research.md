@@ -9,4 +9,4 @@ Here is a quote:   
 
 ### Termite Simulator  
 [Termite 1.0](http://www4.ncsu.edu/~ldong7/project_ter/index.html)  
-[Termite 2.0](http://www4.ncsu.edu/~ldong7/Termite2.0/index.html)  
+[Termite 2.0](http://www4.ncsu.edu/~ldong7/Termite2.2/index.html)  
