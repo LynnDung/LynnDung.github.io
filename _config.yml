@@ -4,8 +4,7 @@ email:       ldong7@ncsu.edu
 author:      Lin Dong
 description: "Lin Dong's home page"
 baseurl:     ""
-url:         "http://LynnDung.github.io
-"
+url:         "http://LynnDung.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
