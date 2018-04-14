@@ -12,3 +12,5 @@ Keep updating
 [Termite 1.0](http://www4.ncsu.edu/~ldong7/project_ter/index.html)  
 [Termite 2.2](http://www4.ncsu.edu/~ldong7/Termite2.2/index.html)  
 [Puerto Rico](http://www4.ncsu.edu/~ldong7/PRSpecies/index.html)  
+Stopped update 2018
+
